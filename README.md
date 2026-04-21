@@ -39,7 +39,7 @@ It transforms raw operational data into **actionable insights**, enabling stakeh
 
 ## 📊 Dashboard Preview
 
-*(Add screenshot here for better impact)*
+![Dashboard](.png)
 
 ---
 
