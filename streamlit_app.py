@@ -57,7 +57,7 @@ def load_data():
     df.set_index('Date', inplace=True)
 
     df = df.asfreq('D')
-    df.fillna(method='ffill', inplace=True)
+    df.ffill()
 
     # Metrics
     df['Total_Load'] = df['CBP_Custody'] + df['HHS_Care']
