@@ -1,5 +1,5 @@
 # 📊 UAC Healthcare Capacity Analytics Dashboard
-🌐 **Live Dashboard:** https://your-app-name.streamlit.app  
+🌐 **Live Dashboard:** https://uac-healthcare-analytics-h3rye7jgetptbrmt5kd7gx.streamlit.app/  
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
